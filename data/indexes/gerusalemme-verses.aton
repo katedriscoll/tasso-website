@@ -1744,14 +1744,14 @@
 	Alle amate reliquie ch’hai nel seno.
 @MVERSE_DATE: 20230824
 @MVERSE:
-	Non di mor--te sei tu, ma di vi-va--ci			=a*
-	Ce--ne-ri_al-ber--go,_o--ve_è ri-po--sto_A-mo--re:	=b
-	E ben sen--to_io da te le_u-sa--te fa--ci		=a*
-	Men dol--ci si, ma non men cal--de_al co--re.		=b
-	Deh pren--di_i miei so-spi--ri,_e que--sti ba--ci	=a*
-	Pren--di ch’io ba--gno di do-glio--so_u-mo--re:		=b
-	E da--gli tu, poi-ch’io non pos--so,_al-me--no		=c
-	Al--le_a-ma--te re-li--quie ch’hai nel se---no.		=c
+	Non di mor--te sei tu, ma di vi-va--ci			=A+
+	Ce--ne-ri_al-ber--go,_o--ve_è ri-po--sto_A-mo--re:	=B
+	E ben sen--to_io da te le_u-sa--te fa--ci		=A+
+	Men dol--ci si, ma non men cal--de_al co--re.		=B
+	Deh pren--di_i miei so-spi--ri,_e que--sti ba--ci	=A+
+	Pren--di ch’io ba--gno di do-glio--so_u-mo--re:		=B
+	E da--gli tu, poi-ch’io non pos--so,_al-me--no		=C+
+	Al--le_a-ma--te re-li--quie ch’hai nel se--no.		=C
 @TVERSE:
 	You are not of death, but of lively
 	Ashes the abode where is placed Love:
