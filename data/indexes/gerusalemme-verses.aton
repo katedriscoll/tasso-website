@@ -1194,14 +1194,14 @@
 	Dir parea: s’apre il Cielo: io vado in pace.
 @MVERSE_DATE: 20230824
 @MVERSE:
-	Non mo-rì-- già: ché sue vir-tu--ti_ac-col--se			=a*
-	Tut--te_in quel pun--to,_e_in guar--dia_al cor le mi--se:	=b
-	E, pre-men--do_il suo_af-fan--no,_a dar si vol--se		=a*
-	Vi--ta con l’ac--qua_a chi col fer--ro_uc-ci--se.		=b
-	Men--tre_e--gli_il suon de’ sa--cri det--ti sciol--se,		=a	
-	Co-lei-- di gio--ia tras-mu-tos--si,_e ri--se:			=b
-	E_in at--to di mor-ir-- lie--to_e vi-va--ce			=c
-	Dir pa-rea--: s’a-pre_il Cie--lo:_io va--do_in pa--ce.		=c
+	Non mo-rì-- già: ché sue vir-tu--ti_ac-col--se			=A+
+	Tut--te_in quel pun--to,_e_in guar--dia_al cor le mi--se:	=B
+	E, pre-men--do_il suo_af-fan--no,_a dar si vol--se		=A+
+	Vi--ta con l’ac--qua_a chi col fer--ro_uc-ci--se.		=B
+	Men--tre_e--gli_il suon de’ sa--cri det--ti sciol--se,		=A	
+	Co-lei-- di gio--ia tras-mu-tos--si,_e ri--se:			=B
+	E_in at--to di mor-ir-- lie--to_e vi-va--ce			=C+
+	Dir pa-rea--: s’a--pre_il Cie--lo:_io va--do_in pa--ce.		=C
 @TVERSE:
 	She did not die yet; thus his virtue he gathered
 	All together at that moment, and set it to guard his heart:
