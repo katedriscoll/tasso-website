@@ -1579,14 +1579,14 @@
 	Essa le piaghe fè, voi le mirate.
 @MVERSE_DATE: 20230824
 @MVERSE:
-	O bel--la de--stra, che_’l so-a--ve pe--gno			=a
-	D’a-mi-ci--zia_e di pa--ce_a me por-ge--sti;			=b
-	Qua--li_or, las--so, vi tro--vo?_e qual ne ve--gno?		=a
-	E voi leg-gia--dre mem--bra,_or non son que--sti		=b
-	Del mio fe-ri--no_e scel-le-ra--to sde--gno			=a*
-	Ve-sti--gi mi-se-ra--bi-li_e fu-ne--sti?			=b
-	O, di par con la man, lu--ci spie-ta--te!			=c
-	Es--sa le pia--ghe fè, voi le mi-ra--te.			=c
+	O bel--la de--stra, che_’l so-a--ve pe--gno			=A
+	D’a-mi-ci--zia_e di pa--ce_a me por-ge--sti;			=B
+	Qua--li_or, las--so, vi tro--vo?_e qual ne ve--gno?		=A
+	E voi leg-gia--dre mem--bra,_or non son que--sti		=B
+	Del mio fe-ri--no_e scel-le-ra--to sde--gno			=A+
+	Ve-sti--gi mi-se-ra--bi-li_e fu-ne--sti?			=B
+	O, di par con la man, lu--ci spie-ta--te!			=C
+	Es--sa le pia--ghe fè, voi le mi-ra--te.			=C
 @TVERSE:
 	O beautiful right [hand], which the pleasing token
 	Of friendship and of peace to me you extended;
